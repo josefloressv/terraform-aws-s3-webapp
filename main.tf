@@ -31,3 +31,6 @@ EOF
     var.tags
   )
 }
+
+# References
+# https://learn.hashicorp.com/tutorials/terraform/module-private-registry-share?in=terraform/modules
